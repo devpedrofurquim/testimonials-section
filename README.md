@@ -23,10 +23,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ![](./images/desktop-screen.png)
 
-#### Mobile
-
-![](./images/mobile-screen.png)
-
 ### Links
 
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
